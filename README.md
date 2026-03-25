@@ -1,7 +1,7 @@
 # Aluminum Can Auto Mask Tool
 
 
-<img width="710" height="1668" alt="sample_sheet_selected" src="https://github.com/user-attachments/assets/f99d7920-4616-46f4-8636-a06f30f879d6" />
+![sample_sheet_selected](https://github.com/user-attachments/assets/ffea0a1d-3453-4803-9c24-e6c7275ca372)
 
 This project contains a local Python tool for automatically masking aluminum cans from images.
 
